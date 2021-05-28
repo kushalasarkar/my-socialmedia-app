@@ -12,7 +12,8 @@ function Feed() {
             <Post
                 profilePic=""
             message = "Yoo nwew post"
-            timestamp='1601493943737'
+                timestamp='1601493943737'
+                // gikgk
             imgName="imgName"
             username="Kushal"
             />
